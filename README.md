@@ -1,6 +1,6 @@
 # Blog Site
 
-## Create Database
+## Create Database 
 <p align="justify">
 The CreateDatabase sql script needs to be run before to make our database and the corresponding tables that store the details of the user and the blog posts. The database is 
 created with the name of blogs and if such a database pre-exists, it is automatically deleted and replaced by this new database.
